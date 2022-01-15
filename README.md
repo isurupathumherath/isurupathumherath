@@ -1,7 +1,10 @@
+# Isuru Pathum Herath
+
+## About Me
 - 👋 Hi, I’m @isurupathumherath
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Software Engineering @ SLIIT Campus
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me -> text me -> +94761714844
 
 <!---
