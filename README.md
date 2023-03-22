@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img height="300em" src="https://github.com/account"/>
+<img height="300em" src="https://www.canva.com/design/DAE6GezaCe8/9xSRIthnjyyb_f3CLLWQug/view?utm_content=DAE6GezaCe8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
 </div>
 
 <hr>
