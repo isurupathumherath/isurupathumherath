@@ -6,7 +6,9 @@
 <div align="center">
 <!--<img height="300em" src="https://www.canva.com/design/DAE6GezaCe8/view"/> -->
 </div>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/isurupathumherath)
+<script>
+      [![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/USERNAME)
+</script>
 
 <hr>
   
