@@ -1,6 +1,6 @@
 <div align="center">
 <h3>  Hi I'm Isuru Pathum Herath.
-      <br/>I am working as a DevOps Engineer ☺️</h3>
+      <br/>Engineer - DevOps & Cloud Security ☺️</h3>
 </div>
 
 <div align="center">
